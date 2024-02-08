@@ -1,0 +1,69 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    
+}
+header{
+padding: 5%;
+padding-bottom: 0%;
+}
+.container{
+    padding: 5%;
+    width: 70%;
+    padding-bottom: 1%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(15, 15, 15, 0.637);
+    border-radius: 10px 10px 0px 0px ;
+}
+.logo{
+    width: auto;
+    height: 110px;
+    margin: auto;
+}
+#booleaners{
+    color: rgb(9, 202, 9);
+    font-size: 260%;
+}
+#nav{
+    background-color: rgba(15, 15, 15, 0.637);
+    width: 72%;
+    margin: auto;
+}
+#tab{
+    background-color: rgb(9, 202, 9) ;
+    margin: auto;
+    text-align: center;
+    width: 83%;
+    padding: 5px;
+}
+#main{
+    background-color: rgba(15, 15, 15, 0.637);
+    width: 66%;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 50px;
+    padding-left: 6%;
+    padding-bottom: 50px;
+}
+.subtitle{
+    font-size: 20px;
+}
+.barra{
+    background-color: orange;
+    width: 30%;
+    height: 20px;
+    border-radius: 3px;
+}
+.mike24{
+    width: 45%;
+    background-color: rgb(24, 156, 7);
+}
+.fede154{
+    width: 10% ;
+    background-color: rgb(151, 13, 13);
+}
